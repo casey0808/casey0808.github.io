@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: [Casey C]
 description: [data anaylst]
+logo: []
 plugins:
   - jemoji
