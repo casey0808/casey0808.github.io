@@ -13,9 +13,9 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 ### My Curriculum
 
 #### Symbol
-- :white_check_mark: = course full completed
+- :ballot_box_with_check: = course full completed
 - :arrow_right: = in progress
-- :radio_button: = have not started yet
+- :question: = have not started yet
 
 #### Already Done
 - **DataCamp**:
