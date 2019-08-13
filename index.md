@@ -1,6 +1,6 @@
 # Welcome to the Lane
 <br/><br/>
-![](https://github.com/casey0808/datacamp_projects/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png)
+![](https://raw.githubusercontent.com/casey0808/datacamp_projects/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png)
 
 - [PROJECT](project.md)
 - [BLOG](blog.md)
