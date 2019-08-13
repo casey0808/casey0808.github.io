@@ -1,7 +1,6 @@
 ## Personalized Data Science Learning Path
 
-    Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who created a self-learning AI degree using online courses
-and books, I decided to design a self-learning path for data science myself.
+Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who created a self-learning AI degree using online courses and books, I decided to design a self-learning path for data science myself.
 
 
 ### My Goal
