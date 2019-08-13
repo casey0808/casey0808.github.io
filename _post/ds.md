@@ -18,5 +18,6 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - :radio_button: = have not started yet
 
 #### Already Done
-- DataCamp: 1. [Data Anlyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
-            2. [Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
+- **DataCamp**:
+   - [Data Anlyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
+   - [Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
