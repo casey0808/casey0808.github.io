@@ -1,5 +1,5 @@
 ### BLOG
 <br/><br/>
-- [**Personalized Data Science Learning Path**](_post/ds.md)
+- [**Personalized Data Science Learning Path**](post/ds.md)
 
 - post 1
