@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 <br/><br/>
-- [PROJECT](https://github.com/casey0808/casey0808.github.io/project.md)
+- [PROJECT](casey0808.github.io/project.md)
 
-- [BLOG](https://github.com/casey0808/casey0808.github.io/blog.md)
+- [BLOG](casey0808.github.io/blog.md)
 
-- [NOW](https://github.com/casey0808/casey0808.github.io/now.md)
+- [NOW](casey0808.github.io/now.md)
 
 
