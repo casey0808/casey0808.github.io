@@ -19,5 +19,5 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 
 #### Already Done
 - **DataCamp**:
-   - [Data Anlyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
+   - [Data Analyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
    - [Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
