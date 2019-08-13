@@ -1,6 +1,6 @@
 # Welcome to the Lane
 <br/><br/>
-![](https://imarticus.org/wp-content/uploads/2019/05/data-science-with-python-training-course-15.jpg)
+![](https://github.com/casey0808/datacamp_projects/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png)
 
 - [PROJECT](project.md)
 - [BLOG](blog.md)
