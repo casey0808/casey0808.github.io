@@ -1,15 +1,15 @@
 ## [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo/blob/master/README.md) by [Adil Khashtamov](https://github.com/adilkhash)
+*modified*
 
 ### Useful articles
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
-- [The Rise of Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
-- [The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)
+- :ballot_box_with_check: [The Rise of Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
+- :ballot_box_with_check: [The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)
 - A Beginner’s Guide to Data Engineering
   - [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   - [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71?source=---------5------------------)
   - [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
-- [How to become a Data Engineer (in Russian)](https://khashtamov.com/ru/data-engineer/)
 
 ### Algorithms & Data Structures
 - [Algorithmic Toolbox](https://stepik.org/course/217) in Russian
@@ -26,7 +26,7 @@
 - [Scala School](https://twitter.github.io/scala_school/) by Twitter
 - [Fluent Python](https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491946008&linkCode=as2&tag=adilkhash-20&linkId=8a663e966770c24874e323133cc7a005) intermediate level book about Python
 - [Intro to Scala](https://stepik.org/course/16243) in Russian on Stepik by Tinkoff Bank
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
+- :ballot_box_with_check: [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
 
 ### Databases
 - [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
