@@ -19,14 +19,18 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 
 ## Already Done
 - **DataCamp**:
-   - [Data Analyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
-   - [Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
+   - :ballot_box_with_check: [Data Analyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
+   - :ballot_box_with_check: [Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
+- :ballot_box_with_check: [Learn Python The Hard Way](https://www.goodreads.com/book/show/8341335-learn-python-the-hard-way)
+- :ballot_box_with_check: [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/learn/lecture/5579042#overview)
    
 ## Foundation Courses
 - [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 
 ## Advanced Courses
+- [fast.ai: Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## Books
 - [The Hundred-Page Machine Learning Book](https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book)
@@ -40,3 +44,4 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [Flask Web Development](https://www.goodreads.com/book/show/18774655-flask-web-development)
 
 ## Extras
+- :arrow_right: [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
