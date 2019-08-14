@@ -14,7 +14,6 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 
 ### Symbol
 - :ballot_box_with_check: = course full completed
-- :arrow_right: = in progress
 
 
 ## Already Done
@@ -45,5 +44,5 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 ## Extras
-- :arrow_right: [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
+- [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
