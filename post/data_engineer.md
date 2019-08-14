@@ -1,4 +1,4 @@
-## [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo/blob/master/README.md)
+## [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo/blob/master/README.md) by [Adil Khashtamov](https://github.com/adilkhash)
 
 ### Useful articles
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
