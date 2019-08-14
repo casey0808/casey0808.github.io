@@ -8,5 +8,6 @@
 ## Currently Reading
 - <Ghost Wall> by Sarah Moss
 - <Practical Statistics for Data Scientists>
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook/) by Andreas Kretz
 
 
