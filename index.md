@@ -1,16 +1,16 @@
 # Welcome to the Lane
 <br/><br/>
-![](https://raw.githubusercontent.com/casey0808/datacamp_projects/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png)
+
+<img src="https://raw.githubusercontent.com/casey0808/datacamp_projects/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png" alt="machine learning wordcloud" width="500"/>
 
 - [PROJECT](project.md)
-- [BLOG](blog.md)
-- [NOW](now.md)
+
 
 
 
 <br/><br/>
 ## About Me
-I live in Shanghai, currently a data analyst.
+I live in Shanghai, currently as a data analyst.
 
 I graduated in 2016 with a master degree in Applied Geosciences.
 
