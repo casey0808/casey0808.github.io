@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Casey C]
-description: [data analyst at present | data engineer in progress]
+description: [data analyst at present <br/><br/> data engineer in progress]
 plugins:
   - jemoji
