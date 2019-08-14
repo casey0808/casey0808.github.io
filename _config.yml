@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Casey C]
-description: [This github page is more of a learning record rather than a portfolio]
+description: [This github page is more of a learning record rather than a portfolio.]
 plugins:
   - jemoji
