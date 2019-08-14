@@ -1,5 +1,4 @@
 ## BLOG
 <br/><br/>
 - [**Personalized Data Science Learning Path**](post/main.md)
-
-- post 1
+- [Data Engineer Checklist](post/data_engineer.md)

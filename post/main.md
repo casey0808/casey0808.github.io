@@ -5,9 +5,9 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 
 ## My Goal
 1. Gain enough relevant knowledge and have the ability of building projects independently. 
-2. Combine data science with the area I'm interested (i.e. geology, earth science, atmospheric science), and carry out interdisciplinary 
-   projects to benefit both fields.
-3. Further develop myself in terms of learning ability, creativity etc.
+2. Combine data science with the area I'm interested (i.e. geology, earth science,atmospheric science), and carry out interdisciplinary projects to benefit both fields.
+3. Become a data engineer.
+4. Further develop myself in terms of learning ability, creativity etc.
 
 
 ## My Curriculum
@@ -42,6 +42,8 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [机器学习](https://book.douban.com/subject/26708119/)
 - [Deep Learning with Python](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 - [Flask Web Development](https://www.goodreads.com/book/show/18774655-flask-web-development)
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 ## Extras
 - :arrow_right: [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
