@@ -1,9 +1,9 @@
 # Welcome to the Lane
-<br/><br/>
+<br/>
 This site is more of a learning record rather than a portfolio.
 <br/><br/>
 <img src="https://raw.githubusercontent.com/casey0808/datacamp_projects/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png" alt="machine learning wordcloud" width="420"/>
-
+<br/>
 - [Project List](project.md)
 - [Personalized Data Science Learning Path](post/main.md)
 - [What am I doing recently](now.md)
