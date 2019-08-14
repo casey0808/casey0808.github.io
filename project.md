@@ -1,8 +1,23 @@
 ## PROJECT LIST
-- **[real estate study](real_estate_study)**
+- **[Real Estate Study](real_estate_study)**
     - city classification
     - geospatial data visualization using folium
     - monthly report generator
-- **[data camp projects](datacamp_projects)**
-- **[aqi shanghai](aqi_shanghai)**
-- **[book recommender](book_recommender)**
+- **[DataCamp Projects](datacamp_projects)**
+    - A Network analysis of Game of Thrones
+    - Dr. Semmelweis and the Discovery of Handwashing
+    - Exploring 67 years of LEGO
+    - Exploring the Bitcoin cryptocurrency market
+    - Naïve Bees
+        - Naïve Bees/ Image Loading and Processing
+        - Naïve Bees/ Predict Species from Images
+        - Naïve Bees/ Deep Learning with Images
+    - Classify Song Genres from Audio Data
+    - The Hottest Topics in Machine Learning
+    - Reducing Traffic Mortality in the USA
+    - ASL Recognition with Deep Learning
+    - Predicting Credit Card Approvals
+    - Word Frequency in Moby Dick
+    - A Visual History of Nobel Prize Winners
+- **[AQI Shanghai](aqi_shanghai)**
+- **[Book Recommender](book_recommender)**
