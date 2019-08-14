@@ -12,10 +12,6 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 
 ## My Curriculum
 
-### Symbol
-- :ballot_box_with_check: = course full completed
-
-
 ## Already Done
 - **DataCamp**:
    - :ballot_box_with_check: [Data Analyst with Python Career Track](https://www.datacamp.com/tracks/data-analyst-with-python)
