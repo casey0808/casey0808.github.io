@@ -1,4 +1,5 @@
-## [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo/blob/master/README.md) by [Adil Khashtamov](https://github.com/adilkhash)
+## [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo/blob/master/README.md) 
+by [Adil Khashtamov](https://github.com/adilkhash)
 *modified*
 
 ### Useful Articles
