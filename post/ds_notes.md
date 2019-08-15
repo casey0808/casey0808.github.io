@@ -60,6 +60,7 @@ The Test dataset provides the gold standard used to evaluate the model. It is on
 ![](https://upload-images.jianshu.io/upload_images/8156307-60fb2a42d28cacbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 7. an example
+
 ```python
 # Import EarlyStopping
 from keras.callbacks import EarlyStopping
