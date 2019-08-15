@@ -12,8 +12,6 @@
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
 ### Algorithms & Data Structures
-- [Algorithmic Toolbox](https://stepik.org/course/217) in Russian
-- [Data Structures](https://stepik.org/course/1547) in Russian
 - [Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) on Coursera
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Stanford on Coursera
 
