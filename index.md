@@ -16,4 +16,4 @@ I live in Shanghai, currently as a data analyst.
 
 I graduated in 2016 with a master degree in Applied Geosciences.
 
-With passion for data science and programming, I want to combine the knowledge of earth science with data science ,and make contribution to both fields.
+With passion for data science and programming, I want to combine the knowledge of earth science with data science ,and hopefully make contribution to both fields.
