@@ -4,10 +4,15 @@ The first principal component of the data is the direction in which the data var
 - scikit-learn库里的fit_transform()函数就是用来降维的，属于PCA对象。
 - 先导入PCA模块sklearn.decomposition，然后用PCA()构造函数，用n_components选项指定要降到几维，最后用fit_transform()传入参数。
 - 以著名的iris数据集为例：
-``` from sklearn.decomposition import PCA ```
-``` x_reduced = PCA(n_components = 3).fit_transform(iris.data)```
+
+```python 
+from sklearn.decomposition import PCA
+x_reduced = PCA(n_components = 3).fit_transform(iris.data)
+```
+
 - 画3D散点图：
-``` 
+
+```python
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn import datasets
@@ -31,6 +36,7 @@ ax.w_xaxis.set_ticklabels(())
 ax.w_yaxis.set_ticklabels(())
 ax.w_xaxis.set_ticklabels(())
 ```
+
 2. **支持向量机**（Support Vector Machine，**SVM**）
 > 指一系列机器学习方法。最基础的任务是判断新观测数据属于两个类别中的哪一个。在学习阶段，这类分类器把训练数据映射到叫作**决策空间**（decision space）的多维空间，创建叫作**决策边界**的分离面，把决策空间分为两个区域。可分为**SVR**（Support Vector Regression，支持向量回归）和**SVC**（Support Vector Classification，支持向量分类）。
 
@@ -54,7 +60,8 @@ The Test dataset provides the gold standard used to evaluate the model. It is on
 ![](https://upload-images.jianshu.io/upload_images/8156307-60fb2a42d28cacbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 7. an example
-```
+
+```python
 # Import EarlyStopping
 from keras.callbacks import EarlyStopping
 
@@ -77,6 +84,7 @@ early_stopping_monitor = EarlyStopping(patience = 2)
 # Fit the model
 model.fit(predictors, target, epochs=30, validation_split= 0.3, callbacks=[early_stopping_monitor])
 ```
+
 8. Networks
 - **degree**：The degree of a node is the number of neighbors that it has.
 - **The degree centrality**： the number of neighbors divided by all possible neighbors that it could have. Depending on whether self-loops are allowed, the set of possible neighbors a node could have could also include the node itself.
@@ -133,14 +141,12 @@ We typically want to avoid using variables that have strong correlations with ea
     - Step 1 Learn web scraping using python Will allow you to obtain data on your own, allowing you to analyze any data source you could wish. Learn selenium, requests, beautifulsoup. Learn how to interact with api’s.
     - Step 2 Learn how to take said data and create a sql database around it Make multiple trimmed down tables that focus on keeping a certain type of data and can be referenced by other tables to make a master file. I.e. a human database could have A Demographics Table A School History Table A work experience table etc
     - Step 3 After creating said database, use said data to create an analysis. Do an analysis of “human” that figures out key components of what makes them successful. ( or whatever your data is about
-Step 4 Automate data collection, transformation Upload, and analysis
+    - Step 4 Automate data collection, transformation Upload, and analysis
 
 Bonus Step Create a web app using ~~node.js / angularjs~~ **Flask** (just to throw out a stack this can be done with and keep you from the 50 other options) The web app will show your automated analysis real time, to anyone who wants to see it.
 Now you will use this project to market yourself.
 You explain all the things necessary and all the complexities it took to do this project and you’ll be hired in literally no time.
 You will have shown capability in multiple programming languages, an ability to problem solve and to research, an ability to learn rapidly, and an ability to get things done independently. This last one is very important, can’t tell you how many people need their hands held every step of the way to figure out how to do something. You prove you can do that, you’ll be worth your weight in gold.
-
----
 
 2.  Two trending series may show a strong correlation even if they are completely unrelated. This is referred to as "spurious correlation". That's why when you look at the correlation of say, two stocks, you should look at the correlation of their returns/changes and not their levels. ( **pct_change()**)
 
