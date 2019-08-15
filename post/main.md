@@ -38,6 +38,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [Deep Learning with Python](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 - [Flask Web Development](https://www.goodreads.com/book/show/18774655-flask-web-development)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 
 ## Extras
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
