@@ -5,6 +5,7 @@
 ## Currently Learning
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome) on Coursera
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome) on Coursera
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ## Currently Reading
 - Ghost Wall by Sarah Moss
