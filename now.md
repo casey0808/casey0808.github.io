@@ -4,6 +4,7 @@
 
 ## Currently Learning
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome) on Coursera
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome) on Coursera
 
 ## Currently Reading
 - Ghost Wall by Sarah Moss
