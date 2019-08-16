@@ -157,7 +157,7 @@ We typically want to avoid using variables that have strong correlations with ea
 - Transforming data into an understandable format, where data is typically stored together with an error detection and correction code to meet operational needs
 - Transmitting and loading data to the receiving end
 10. **Data warehousing** is a technology that aggregates structured data from one or more sources so that it can be compared and analyzed for greater business intelligence. Data warehouses are typically used to correlate broad business data to provide greater executive insight into corporate performance.
-11. [principles](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71) that good **ETL** pipelines should follow:
+11. [Principles](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71) that good **ETL** pipelines should follow:
 - Partition Data Tables
 - Load Data Incrementally
 - Enforce [Idempotency](https://en.wikipedia.org/wiki/Idempotence)
