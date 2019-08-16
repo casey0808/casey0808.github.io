@@ -10,7 +10,7 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 - A Beginner’s Guide to Data Engineering
   - :ballot_box_with_check: [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   - :ballot_box_with_check: [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71?source=---------5------------------)
-  - [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)
+  - :ballot_box_with_check: [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
 ### Algorithms & Data Structures
