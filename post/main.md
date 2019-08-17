@@ -21,6 +21,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
    
 ## Foundation Courses
 - [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) on Udacity
 
 
 ## Advanced Courses

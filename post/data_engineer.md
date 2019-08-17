@@ -16,6 +16,7 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 ### Algorithms & Data Structures
 - [Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) on Coursera
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) from Stanford on Coursera
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) on Udacity
 
 ### SQL
 - [Comprehensive SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) by Mode Analytics
