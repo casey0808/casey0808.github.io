@@ -4,7 +4,7 @@
 
 ## Currently Learning
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome) on Coursera
-- [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science) on edX
+- [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science) on edX (Week 3)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) on Udacity
 
 ## Currently Reading
