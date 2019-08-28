@@ -20,7 +20,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - :ballot_box_with_check: [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/learn/lecture/5579042#overview)
    
 ## Foundation Courses
-- [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- :ballot_box_with_check: [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) on Udacity
 
 
