@@ -4,7 +4,7 @@
 
 ## Currently Learning
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome) on Coursera
-- [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
+- [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University (01)
 
 ## Currently Reading
 - Practical Statistics for Data Scientists
