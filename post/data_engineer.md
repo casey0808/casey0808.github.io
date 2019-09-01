@@ -32,6 +32,7 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 ### Databases
 - [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
 - [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) by Carnegie Mellon University
+- [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
 - On Disk IO
   - I. [Flavors of IO](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
   - II. [More Flavours of IO](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13)
@@ -52,9 +53,9 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook/) by Andreas Kretz
 
 ### Courses
-- [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
-- [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
+- ~~[Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google~~
 - ~~[Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity~~
+- [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing) on Coursera
 
 ### Blogs
 - [Martin Kleppmann](https://martin.kleppmann.com/) author of Designing Data-Intensive Application

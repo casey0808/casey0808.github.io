@@ -22,9 +22,10 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 ## Foundation Courses
 - :ballot_box_with_check: [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) on Udacity
-
+- [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
 
 ## Advanced Courses
+- [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing) on Coursera
 - [fast.ai: Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 
