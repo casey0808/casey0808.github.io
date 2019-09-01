@@ -53,7 +53,7 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook/) by Andreas Kretz
 
 ### Courses
-- ~~[Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google~~
+- [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
 - ~~[Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity~~
 - [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing) on Coursera
 
