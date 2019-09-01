@@ -5,7 +5,7 @@
 ## Currently Learning
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome) on Coursera
 - ~~[Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University (02)~~
-- [Data Structures and Algorithm Design Part I](https://courses.edx.org/courses/course-v1:TsinghuaX+30240184.1x+1T2019/course/)
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/) on Coursera
 - [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/) on Coursera
 - [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
 
