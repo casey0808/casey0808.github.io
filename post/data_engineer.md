@@ -30,8 +30,8 @@ by [Adil Khashtamov](https://github.com/adilkhash)
 - :ballot_box_with_check: [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
 
 ### Databases
-- [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
-- [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) by Carnegie Mellon University
+- ~~[Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University~~
+- ~~[Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) by Carnegie Mellon University~~
 - [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
 - On Disk IO
   - I. [Flavors of IO](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
