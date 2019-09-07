@@ -74,6 +74,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 ## Extras
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment/home/welcome)
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
+- [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data)
 
 ### Useful Articles
 - :ballot_box_with_check: [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
