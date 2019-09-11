@@ -12,3 +12,4 @@ df[df.a > df.b]   # same result as the previous expression
 ```
 
 4. To create strings that span multiple lines, triple single quotes ''' or triple double quotes """ are used to enclose the string.
+5. **JSON**(JavaScript Object Notation) represents data as nested "lists" and "dictionaries".
