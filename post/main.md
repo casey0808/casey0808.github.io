@@ -30,6 +30,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [Comprehensive SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) by Mode Analytics
 - [SQL Practice](https://leetcode.com/problemset/database/) on Leetcode
 - [Modern SQL](https://modern-sql.com/) a website about modern SQL syntax
+- [The Ultimate MySQL Bootcamp](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) on Udemy
 
 ### Databases
 - :ballot_box_with_check: [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
