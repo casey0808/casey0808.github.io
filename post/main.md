@@ -32,7 +32,7 @@ Inspired by [Daniel Bourke](https://mrdbourke.com/blog/aimastersdegree) who crea
 - [Modern SQL](https://modern-sql.com/) a website about modern SQL syntax
 
 ### Databases
-- [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
+- :ballot_box_with_check: [Using Databases with Python](https://www.coursera.org/learn/python-databases) on Coursera
 
 ### Programming
 - [Scala School](https://twitter.github.io/scala_school/) by Twitter
