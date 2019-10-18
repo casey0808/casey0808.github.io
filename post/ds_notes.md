@@ -46,7 +46,7 @@ ax.w_xaxis.set_ticklabels(())
 
 4. **Backpropagation** （反向传播算法，BP）
 - to calculate the slope for a weight (aka the partial differential of the loss function with regard to the weight):
-![](-)
+![](https://github.com/casey0808/casey0808.github.io/blob/master/pics/backpropagation.png)
 
 5. **迭代（iteration)**：
 > 指重复反馈过程的活动，其目的通常是为了接近并到达所需的目标或结果。每一次对过程的重复被称为一次“迭代”，而每一次迭代得到的结果会被用来作为下一次迭代的初始值。
