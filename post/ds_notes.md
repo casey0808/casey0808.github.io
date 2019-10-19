@@ -57,7 +57,7 @@ The sample of data used to provide an unbiased evaluation of a model fit on the 
 - **Test Dataset**:
 The sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
 The Test dataset provides the gold standard used to evaluate the model. It is only used once a model is completely trained(using the train and validation sets). The test set is generally what is used to evaluate competing models.
-![](https://upload-images.jianshu.io/upload_images/8156307-60fb2a42d28cacbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![png](https://casey0808.github.io/pics/2.png)
 
 7. an example
 
@@ -106,14 +106,14 @@ We typically want to avoid using variables that have strong correlations with ea
 12. **Bootstrapping**: **自助法**，bootstrap sampling也称为**可重复采样**/**有放回采样**。
 - 给定包含m个样本的数据集D，我们对它进行采样产生数据集D'：每次随机从D中挑选一个样本，将其拷贝放入D'，然后再将该样本放回初始数据集D中，使得该样本在下次采样时仍有可能被采到；这个过程重复执行m次后，我们就得到了包含m个样本的数据集D‘。
 - 显然，D中有一部分样本会在D'中多次出现，而另一部分样本不出现。
-![](https://upload-images.jianshu.io/upload_images/8156307-410dc8c28b8b7aba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
+![png](https://casey0808.github.io/pics/bootstrap.png)
 - 自助法在数据集较小、难以有效划分训练/测试集时很有用；然而，自助法产生的数据集改变了初始数据集的分布，这会引入估计偏差。因此，在初始数据量足够时，留出法（hold-out）和交叉验证法（cross-validation）更常用一些。
 
 13. **查准率**（precision）与**查全率**（recall）：
-![](https://upload-images.jianshu.io/upload_images/8156307-12382f49258d8f53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![png](https://casey0808.github.io/pics/pr.png)
 **F1**：基于查准率与查全率的调和平均：
-![](https://upload-images.jianshu.io/upload_images/8156307-e4166c9290c193cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
-![](https://upload-images.jianshu.io/upload_images/8156307-335a957f5c4fb9de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
+![png](https://casey0808.github.io/pics/f1.png)
+![png](https://casey0808.github.io/pics/f1_2.png)
 
 14. 调节hyperparemeters可以用GridSearchCV
 15. Deep Learning Layers:
