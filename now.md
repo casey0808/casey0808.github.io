@@ -4,7 +4,6 @@
 
 ## Currently Learning
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/) on Coursera
-- [The Ultimate MySQL Bootcamp](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) on Udemy (Section 17)
 - [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ## Currently Reading
