@@ -4,7 +4,7 @@
 
 ## Currently Learning
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/) on Coursera
-- [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) (Section 15)
+- [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) (Section 16)
 
 ## Currently Reading
 - Practical Statistics for Data Scientists
