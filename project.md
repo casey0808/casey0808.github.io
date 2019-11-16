@@ -21,3 +21,5 @@
     - A Visual History of Nobel Prize Winners
 - **[AQI Shanghai](aqi_shanghai)**
 - **[Book Recommender](book_recommender)**
+- **[Web Development](web_development)**
+    - [color_game](web_development/color_game/colorGame.html)
