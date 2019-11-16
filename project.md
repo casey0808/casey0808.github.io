@@ -23,4 +23,4 @@
 - **[Book Recommender](book_recommender)**
 - **[Web Development](web_development)**
     - [color game](web_development/color_game/colorGame.html)
-    - [museum of candy](web_development/museum_of_candy/index.html)
+    - [museum of candy(demo)](web_development/museum_of_candy/index.html)
