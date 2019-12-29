@@ -3,8 +3,7 @@
 I started this website as a place to document everything I learned while going through a career change,
 thus it is more of a learning record rather than a portfolio.
 <br/><br/>
-<img src="https://raw.githubusercontent.com/casey0808/datacamp_projects/master/The%20Hottest%20Topics%20in%20Machine%20Learning/output_9_0.png" alt="machine learning wordcloud" width="450"/>
-<br/>
+
 - [Project List](project.md)
 - [Personalized Data Science Learning Path](post/main.md)
 - [What am I doing recently](now.md)
