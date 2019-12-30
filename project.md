@@ -29,8 +29,8 @@
 - **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
 - **[Responsive Web Design](fcc-responsive-web-design)**
     - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
-    - [Survey Form](https://casey0808.github.io/fcc-responsive-web-design/survey-form)
-    - [Technical Documentation Page](https://casey0808.github.io/fcc-responsive-web-design/technical-documentation-page)
-    - [Tribute Page](https://casey0808.github.io/fcc-responsive-web-design/tribute-page)
+    - [Survey Form](fcc-responsive-web-design/survey-form)
+    - [Technical Documentation Page](fcc-responsive-web-design/technical-documentation-page)
+    - [Tribute Page](fcc-responsive-web-design/tribute-page)
 
 - **[Book Recommender](book_recommender)**
