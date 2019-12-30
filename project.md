@@ -26,4 +26,11 @@
     - [patatap clone](web_development/patatap_clone/circles.html)
     - [score keeper](web_development/score_keeper/scoreKeeper.html)
     - [museum of candy (demo)](web_development/museum_of_candy/index.html)
+- **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
+- **[Responsive Web Design](fcc-responsive-web-design)**
+    - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
+    - [Survey Form](https://casey0808.github.io/fcc-responsive-web-design/survey-form)
+    - [Technical Documentation Page](https://casey0808.github.io/fcc-responsive-web-design/technical-documentation-page)
+    - [Tribute Page](https://casey0808.github.io/fcc-responsive-web-design/tribute-page)
+
 - **[Book Recommender](book_recommender)**
