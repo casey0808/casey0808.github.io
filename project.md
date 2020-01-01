@@ -31,6 +31,7 @@
     - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
     - [Survey Form](fcc-responsive-web-design/survey-form)
     - [Technical Documentation Page](fcc-responsive-web-design/technical-documentation-page)
+    - [Product Landing Page](fcc-responsive-web-design/product-landing-page)
     - [Tribute Page](fcc-responsive-web-design/tribute-page)
 
 - **[Book Recommender](book_recommender)**
