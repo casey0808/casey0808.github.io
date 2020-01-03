@@ -17,7 +17,7 @@ thus it is more of a learning record rather than a portfolio.
 
 
 
-- [What am I doing recently](now.md)
+<!-- - [What am I doing recently](now.md) -->
 
 
 
