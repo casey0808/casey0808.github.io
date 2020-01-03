@@ -7,7 +7,7 @@ thus it is more of a learning record rather than a portfolio.
 - [Project List](project.md)
 
 <a href="http://cancui.work/web_development/color_game/colorGame.html" target="_blank">
-    <img src="/pics/colorgame.png" width="150" height="auto"></br>
+    <img src="/pics/colorgame.png" width="200" height="auto">
 </a>
 
 
