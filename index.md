@@ -10,7 +10,7 @@ thus it is more of a learning record rather than a portfolio.
 
 
 
-<br/><br/>
+<br/><br/></br></br>
 ## About Me
 I live in Shanghai, currently as a data analyst.
 
