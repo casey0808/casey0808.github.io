@@ -10,15 +10,19 @@
     - [patatap clone](web_development/patatap_clone/circles.html)
     - [score keeper](web_development/score_keeper/scoreKeeper.html)
     - [museum of candy (demo)](web_development/museum_of_candy/index.html)
+
 - **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
+
+- **[Data Visualization](fcc-data-visualization)**
+    - [Bar Chart](fcc-data-visualization/bar-chart)
+    
 - **[Responsive Web Design](fcc-responsive-web-design)**
     - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
     - [Survey Form](fcc-responsive-web-design/survey-form)
     - [Technical Documentation Page](fcc-responsive-web-design/technical-documentation-page)
     - [Product Landing Page](fcc-responsive-web-design/product-landing-page)
     - [Tribute Page](fcc-responsive-web-design/tribute-page)
-- **[Data Visualization](fcc-data-visualization)**
-    - [Bar Chart](fcc-data-visualization/bar-chart)
+
 - **[DataCamp Projects](datacamp_projects)**
     - A Network analysis of Game of Thrones
     - Dr. Semmelweis and the Discovery of Handwashing
