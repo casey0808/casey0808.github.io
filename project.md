@@ -18,7 +18,7 @@
     - [Product Landing Page](fcc-responsive-web-design/product-landing-page)
     - [Tribute Page](fcc-responsive-web-design/tribute-page)
 - **[Data Visualization](fcc-data-visualization)**
-    -[Bar Chart](fcc-data-visualization/bar-chart)
+    - [Bar Chart](fcc-data-visualization/bar-chart)
 - **[DataCamp Projects](datacamp_projects)**
     - A Network analysis of Game of Thrones
     - Dr. Semmelweis and the Discovery of Handwashing
