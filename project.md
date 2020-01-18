@@ -14,7 +14,7 @@
 - **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
 
 - **[Data Visualization](fcc-data-visualization)**
-    - [Bar Chart](fcc-data-visualization/bar-chart/bar-chart.html)
+    - [Bar Chart](fcc-data-visualization/bar-chart)
 
 - **[Responsive Web Design](fcc-responsive-web-design)**
     - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
