@@ -16,6 +16,7 @@
 - **[Data Visualization](fcc-data-visualization)**
     - [Bar Chart](fcc-data-visualization/bar-chart)
     - [Scatter Plot](fcc-data-visualization/scatter-plot)
+    - [Heat Map](fcc-data-visualization/heat-map)
 
 - **[Responsive Web Design](fcc-responsive-web-design)**
     - [Personal Portfolio](fcc-responsive-web-design/personal-portfolio)
