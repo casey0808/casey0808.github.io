@@ -11,6 +11,8 @@
     - [score keeper](web_development/score_keeper/scoreKeeper.html)
     - [museum of candy (demo)](web_development/museum_of_candy/index.html)
 
+- **[Todo List App](todo-list)**
+
 - **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
 
 - **[Data Visualization](fcc-data-visualization)**
