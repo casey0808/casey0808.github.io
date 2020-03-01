@@ -13,6 +13,8 @@
 
 - **[Todo List App](todo-list)**
 
+- **[Wes Anderson Palette](wes-anderson-palette)**
+
 - **[Random Quote Machine](https://elated-wing-438675.netlify.com/)**
 
 - **[Data Visualization](fcc-data-visualization)**
