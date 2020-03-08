@@ -15,6 +15,6 @@ thus it is more of a learning record rather than a portfolio.
 
 I am Casey, currently living in Shanghai. 
 
-I worked as a data analyst for almost two years, and recently switched to front-end developer.
+I worked as a data analyst for almost two years, and switched to front-end developer at the end of 2019.
 
 With passion for data visualization and web development, I want to combine the knowledge of both fields, create aesthetic and user-friendly websites, and showcase data in better ways.
