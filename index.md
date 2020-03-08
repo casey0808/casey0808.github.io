@@ -12,9 +12,9 @@ thus it is more of a learning record rather than a portfolio.
 
 <br/><br/><br/><br/>
 ## About Me
-I live in Shanghai, currently as a data analyst.
 
-I graduated in 2016 with a master degree in Applied Geosciences.
+I am Casey, currently living in Shanghai. 
 
-With passion for data visualization and web development, I want to combine the knowledge of both fields to create aesthetic and user-friendly websites.
+I worked as a data analyst for almost two years, and recently switched to front-end developer.
 
+With passion for data visualization and web development, I want to combine the knowledge of both fields, create aesthetic and user-friendly websites, and showcase data in better ways.
