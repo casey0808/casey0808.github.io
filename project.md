@@ -15,7 +15,11 @@
 
 - **[Markdown Previewer](markdown-previewer)**
 
+- **[Color Game (React Ver.)](color-game-react)**
+
 - **[Pomodoro Clock](pomodoro-clock)**
+
+- **[Weather App](weather-app)**
 
 - **[Todo List App](todo-list)**
 
