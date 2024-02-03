@@ -6,7 +6,7 @@ thus it is more of a learning record rather than a portfolio.
 
 -   [Project List](project.md)
 <!-- - [Personalized Data Science Learning Path](post/main.md) -->
--   [What am I doing recently](now.md)
+<!-- -   [What am I doing recently](now.md) -->
 
 <br/><br/><br/><br/>
 
